@@ -89,7 +89,7 @@ const AppContainer = () => {
                         autoStart: true,
                         loop: true,
                         delay: 40,
-                        strings: ["Frontend Developer", "React Frontend Developer", "UI & UX Designer"]
+                        strings: ["MERN Stack Developer", "React Frontend Developer", "Frontend Engineer"]
 
                        }}
                     />
