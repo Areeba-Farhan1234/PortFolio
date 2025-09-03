@@ -97,7 +97,7 @@ const AppContainer = () => {
                 </span>
               </div>
 
-              <p>I passionate front-end React developer. I specialize in creating visually appealing and user-friendly websites using HTML, CSS, Bootstrap, Tailwind, JavaScript, and React. I love bringing designs to life and ensuring they work flawlessly across all devices. My work focuses on clean, efficient code and engaging user experiences</p>
+              <p>I’m Areeba Farhan, a MERN Stack Developer, Frontend Engineer, and React Developer with 3 years of experience building modern, responsive, and user-friendly applications. I specialize in React, Next.js, JavaScript, and the MERN stack, along with HTML, CSS, Bootstrap, and Tailwind. My focus is on clean, efficient code, performance optimization, and creating seamless user experiences.</p>
 
 
               <div className="btn-box">
