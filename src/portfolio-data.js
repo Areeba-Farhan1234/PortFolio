@@ -47,5 +47,12 @@ export const portfolioData = [
     img: "/img/Ecommerce Website.png",
     category: "product",
     link: "https://areeba-farhan1234.github.io/Ecommerce-Website/",
-  }
+  },
+   {
+    id: 8,
+    title: "Bella Vista Restaurant Website",
+    img: "/img/bella-vista.png",
+    category: "interacting",
+    link: "https://bella-vista-restaurant-nine.vercel.app/",
+  },
 ];
